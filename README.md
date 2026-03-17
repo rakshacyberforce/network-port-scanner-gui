@@ -2,7 +2,7 @@
 
 
 
-A lightweight and efficient \*\*TCP Port Scanner\*\* with a graphical user interface (GUI) built using \*\*Python\*\* and \*\*Tkinter\*\*.
+A lightweight and efficient TCP Port Scanner with a graphical user interface (GUI) built using Python and Tkinter.
 
 This tool helps in identifying open ports on a target system for basic network analysis and cybersecurity learning.
 
