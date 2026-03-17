@@ -94,7 +94,7 @@ Kunj Patel
 
 
 
-git clone https://github.com/YOUR\_USERNAME/network-port-scanner-gui.git
+git clone https://github.com/rakshacyberforce/network-port-scanner-gui.git
 
 cd network-port-scanner-gui
 
