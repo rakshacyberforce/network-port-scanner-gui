@@ -1,4 +1,4 @@
-\# 🔍 Network Port Scanner GUI
+🔍 Network Port Scanner GUI
 
 
 
@@ -12,11 +12,11 @@ This tool helps in identifying open ports on a target system for basic network a
 
 
 
-\## 👨‍💻 Author
+ 👨‍💻 Author
 
 
 
-\*\*Kunj Patel\*\*
+Kunj Patel
 
 
 
@@ -26,7 +26,7 @@ This tool helps in identifying open ports on a target system for basic network a
 
 
 
-\## 🚀 Features
+ 🚀 Features
 
 
 
@@ -50,7 +50,7 @@ This tool helps in identifying open ports on a target system for basic network a
 
 
 
-\## 🧠 How It Works
+🧠 How It Works
 
 
 
@@ -70,7 +70,7 @@ This tool helps in identifying open ports on a target system for basic network a
 
 
 
-\## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 
 
@@ -88,17 +88,17 @@ This tool helps in identifying open ports on a target system for basic network a
 
 
 
-\## 📦 Installation
+ 📦 Installation
 
 
 
-```bash
+
 
 git clone https://github.com/YOUR\_USERNAME/network-port-scanner-gui.git
 
 cd network-port-scanner-gui
 
-```
+
 
 
 
@@ -106,19 +106,19 @@ cd network-port-scanner-gui
 
 
 
-\## ▶️ Usage
+ ▶️ Usage
 
 
 
-```bash
+
 
 python scanner\_gui.py
 
-```
 
 
 
-\### Steps:
+
+Steps:
 
 
 
@@ -142,7 +142,7 @@ python scanner\_gui.py
 
 
 
-\## 🔍 Common Ports Detected
+ 🔍 Common Ports Detected
 
 
 
@@ -170,7 +170,7 @@ python scanner\_gui.py
 
 
 
-\## 🧪 Testing
+ 🧪 Testing
 
 
 
@@ -188,11 +188,10 @@ You can safely test using:
 
 
 
-\## 📁 Project Structure
+ 📁 Project Structure
 
 
 
-```
 
 network-port-scanner-gui/
 
@@ -202,7 +201,7 @@ network-port-scanner-gui/
 
 └── README.md        # Project documentation
 
-```
+
 
 
 
@@ -210,7 +209,7 @@ network-port-scanner-gui/
 
 
 
-\## ⚠️ Disclaimer
+⚠️ Disclaimer
 
 
 
@@ -226,7 +225,7 @@ The author is not responsible for any misuse.
 
 
 
-\## ⭐ Future Improvements
+⭐ Future Improvements
 
 
 
@@ -246,7 +245,7 @@ The author is not responsible for any misuse.
 
 
 
-\## 🙌 Acknowledgment
+ 🙌 Acknowledgment
 
 
 
